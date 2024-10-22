@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Java Developer<br>- Internet Information technology <br>  Technician    <br>- System Development Technician</p>
+<p align="left">- Java Developer<br>- Internet Computer  Technician    <br>- System Development Technician</p>
 
 ###
 
