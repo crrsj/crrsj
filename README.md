@@ -1,8 +1,8 @@
-<h2 align="left">- About Me</h2>
+<h2 align="left">- Sobre</h2>
 
 ###
 
-<p align="left">- Java Developer<br>- Internet Computer  Technician    <br>- System Development Technician</p>
+<p align="left">- Desenvolvedor Java <br>- Técnico Em Informática Para Internet    <br>- Técnico Em Desenvolvimento De Sistemas </p>
 
 ###
 
