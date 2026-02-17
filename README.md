@@ -26,14 +26,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-###
-
-<h2 align="left">Stats</h2>
 
 ###
 
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">Linkedin</h2>
 
 ###
 
