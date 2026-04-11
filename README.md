@@ -33,7 +33,7 @@
 ###
 
 
-<h2 align="left">Contatos</h2>
+<h2 align="left">Contatos:</h2>
 
 ###
 
@@ -44,6 +44,10 @@
 <a href="https://wa.me/5579988317115" target="_blank">
 <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" width="52" height="40" alt="WhatsApp">
 </a>
+<a href="https://www.youtube.com/@CarlosRoberto-wl4kh" target="_blank">
+<img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="52" height="40" alt="WhatsApp">
+</a>
+  
 </div>
 
 ###
