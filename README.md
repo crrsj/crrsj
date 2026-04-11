@@ -47,7 +47,7 @@
 <a href="https://www.youtube.com/@CarlosRoberto-wl4kh" target="_blank">
 <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="52" height="40" alt="WhatsApp">
 </a>
-  <a href="mailto:crrsj1@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=crrsj1@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="52" height="40" alt="Gmail" >
 </a>
 </div>
