@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Desenvolvedor Java <br>- Técnico Em Informática Para Internet    <br>- Técnico Em Desenvolvimento De Sistemas </p>
+<p align="left"> - Tecnólogo Em Análise E Desenvolvimento De Sistemas <br> - Desenvolvedor Java <br> - Técnico Em Informática Para Internet  <br>- Técnico Em Desenvolvimento De Sistemas </p>
 
 ###
 
