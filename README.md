@@ -54,11 +54,5 @@
 </div>
  
 ###
-| Contato | Link Direto |
-| :--- | :--- |
-| **Gmail** | [![Gmail](https://img.icons8.com/?size=40&id=P7UIlhbpWzZm&format=png)](https://mail.google.com/mail/?view=cm&fs=1&to=crrsj1@gmail.com) |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-roberto-ribeiro-santos-638062226/) |
-| **WhatsApp** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5579988317115) |
-| **WhatsApp** |[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CarlosRoberto-wl4kh) |
 
 
