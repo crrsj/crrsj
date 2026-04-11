@@ -41,10 +41,9 @@
   <a href="https://www.linkedin.com/in/carlos-roberto-ribeiro-santos-junior-257175269/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a> 
+  <a href="https://wa.me/5579988317115" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
 </div>
-<div align="left">
-   <a href="http://wa.me/5579988317115" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</div>
+
 ###
