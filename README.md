@@ -39,7 +39,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/carlos-roberto-ribeiro-santos-junior-257175269/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a> 
 <a href="https://wa.me/5579988317115" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" width="52" height="40" alt="WhatsApp"/>
@@ -50,7 +50,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=crrsj1@gmail.com" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="52" height="40" alt="Gmail" />
 </a>
-
+</div>
  
 ###
 
