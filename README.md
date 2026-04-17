@@ -34,7 +34,7 @@
 
 <h2 align="left">Contatos:</h2>
 
-###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/carlos-roberto-ribeiro-santos-junior-257175269/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
@@ -49,6 +49,6 @@
   <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="52" height="40" alt="Gmail" />
 </a>
 </div> 
-###
+
 
 
