@@ -33,7 +33,7 @@
 </div>
 
 
-<h2 align="left">Contatos::</h2>
+<h2 align="left">Contatos clique nos ícones abaixo:</h2>
 
 
 <div align="left">  
