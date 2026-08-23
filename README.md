@@ -2,7 +2,7 @@
 
 
 
-<p align="left"> - Tecnólogo Em Análise E Desenvolvimento De Sistemas <br> - Desenvolvedor Java | Spring  <br> - Desenvolvedor Python | Django <br> - Técnico Em Informática Para Internet  <br>- Técnico Em Desenvolvimento De Sistemas <br> - Técnico Em administração </p>
+<p align="left"> - Tecnólogo Em Análise E Desenvolvimento De Sistemas <br> - Desenvolvedor Java | Spring  <br> - Desenvolvedor Python | Django <br> - Técnico Em Informática Para Internet  <br>- Técnico Em Desenvolvimento De Sistemas <br> - Técnico Em Administração </p>
 
 
 
